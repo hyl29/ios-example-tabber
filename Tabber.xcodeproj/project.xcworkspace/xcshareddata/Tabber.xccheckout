@@ -11,17 +11,17 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A9251811F413282FE546668DF73B87F3B35DDBF2</key>
-		<string>github.com:carambula/iOS.git</string>
+		<string>github.com:ultrasaurus/iOS.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>tipcalculator/Tabber.xcodeproj</string>
+	<string>Tabber.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A9251811F413282FE546668DF73B87F3B35DDBF2</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:carambula/iOS.git</string>
+	<string>github.com:ultrasaurus/iOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>A9251811F413282FE546668DF73B87F3B35DDBF2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOS</string>
+			<string>tabber</string>
 		</dict>
 	</array>
 </dict>
