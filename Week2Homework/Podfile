@@ -1,5 +1,0 @@
-platform :ios, '7.0'
-inhibit_all_warnings!
-
-pod 'TTTAttributedLabel'
-pod "AFNetworking", "~> 2.0"
